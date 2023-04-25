@@ -11,9 +11,8 @@
     "animejs": "^3.0.1"
   },
   "peerDependencies": {
-    "react": "^16.x",
-    "react-dom": "^16.x",
-    "react-scripts": "^3.x"
+    "react": "^18.x",
+    "react-dom": "^18.x",
   },
   "scripts": {
     "build": "./scripts/build.sh",
